@@ -1,2 +1,1 @@
-# util
-Utilities for dbspinner
+Database utilities required by dbspinner
