@@ -109,6 +109,10 @@
       <goals>
        <goal>sign</goal>
       </goals>
+      <configuration>
+            <keyname>0x7BE4149B</keyname>
+            <passphraseServerId>0x7BE4149B</passphraseServerId>
+          </configuration>
      </execution>
     </executions>
    </plugin>
